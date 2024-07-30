@@ -10,3 +10,4 @@ function aparecerFormulario(){
 function desaparecerFormulario(){
     formulario.style.left = "-50%"
 }
+console .log("olá java script")
